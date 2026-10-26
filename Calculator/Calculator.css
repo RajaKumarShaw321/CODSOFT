@@ -4,7 +4,6 @@ padding:0;
 box-sizing:border-box;
 font-family:Arial,sans-serif;
 }
-
 body{
 display:flex;
 justify-content:center;
@@ -17,7 +16,7 @@ background:linear-gradient(135deg,#4facfe,#00f2fe);
 background:#1e293b;
 padding:20px;
 border-radius:15px;
-box-shadow:0 10px 30px rgba(0,0,0,.3);
+box-shadow:0 5px 30px rgba(0,0,0,.3);
 width:340px;
 }
 
